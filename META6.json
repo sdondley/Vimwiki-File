@@ -1,0 +1,25 @@
+{
+  "auth": "zef:sdondley",
+  "authors": [
+    "Steve Dondley"
+  ],
+  "build-depends": [
+  ],
+  "depends": [
+  ],
+  "description": "blah blah blah",
+  "license": "Artistic-2.0",
+  "name": "Vimwiki::File",
+  "perl": "6.d",
+  "provides": {
+    "Vimwiki::File": "lib/Vimwiki/File.rakumod"
+  },
+  "resources": [
+  ],
+  "source-url": "",
+  "tags": [
+  ],
+  "test-depends": [
+  ],
+  "version": "0.0.1"
+}
